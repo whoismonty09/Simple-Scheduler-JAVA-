@@ -35,4 +35,23 @@ This project implements a simple task scheduler using Java Timer and TimerTask. 
 
 ---
 
+---
 
+## 🎯 Learning Outcomes
+- Learned how to schedule tasks in Java  
+- Practiced using Timer and TimerTask  
+- Improved understanding of threads  
+- Built a simple scheduler application  
+
+---
+
+## 🔮 Future Enhancements
+- Add multiple scheduled tasks  
+- Add start and stop controls  
+- Store task execution logs  
+- Create GUI using JavaFX  
+
+---
+
+## 👨‍💻 Author
+Developed by Monty
