@@ -35,8 +35,6 @@ This project implements a simple task scheduler using Java Timer and TimerTask. 
 
 ---
 
----
-
 ## 🎯 Learning Outcomes
 - Learned how to schedule tasks in Java  
 - Practiced using Timer and TimerTask  
